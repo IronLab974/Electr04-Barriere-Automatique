@@ -177,11 +177,6 @@ Fixe la barrière au servomoteur à l’aide des rislans.
 
 ---
 
-## 🎥 Vidéo Youtube
-
-
----
-
 ## 📝 Le petit mot de la fin
 
 J’espère que le projet t’a plu et que tu t’es amusé !
