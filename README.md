@@ -127,28 +127,30 @@ void loop() {
 ## 📷 Assemblage
 
 
-> Colle le support du module HC-SR04 sur la maquette
+> Colle le support du module HC-SR04 sur la maquette.
+
 
 ![HC-SR04](Images/collage_support_hcsr04.png)
 
-> Colle le support du servomoteur et des led sur la maquette.
-> Attention le trou des led doit se trouver à droite
+> Colle le support du servomoteur et des LED sur la maquette.
+> ⚠️ Attention : le trou des LED doit se trouver à droite.
 
 ![Support servo](Images/collage_support_servo.png)
 
 
+> Installe le servomoteur sur son support à l’aide des deux vis M3 de 16 mm et des écrous.
 
-> Installe le servomoteur sur son support avec les 2 vis M3 16mm et les écrous.
 
 ![Installation servomoteur](Images/installation_servo.png)
 
 
-> Fixe la barrière au servomoteur avec des rislans.
+Fixe la barrière au servomoteur à l’aide des rislans.
+
 
 ![Installation barrière](Images/installation_barriere.png)
 
 > Colle les LEDs au support.
-> La led verte se trouve à droite.
+> La LED verte se trouve à droite.
 
 ![Collage LEDs](Images/collage_led.png)
 
@@ -156,24 +158,30 @@ void loop() {
 
 ![Collage HC-SR04](Images/collage_scsr04.png)
 
-> Réalise les branchement en suivant le schéma.
+> Réalise les branchements en suivant le schéma.
 
-![Cablage](Images/collage_scsr04.png)
+![Cablage](Images/cablage.png)
 
 > Upload le code, ajoute l'alimentation 5V et test ta création !
 
 Montage final
+
 ![Montage final](Images/montage_finale.png)
 
+---
 
-## 📌 Démonstration
+## 📷  Démonstration
 
 GIF
 
 ---
 
+## 🎥 Vidéo Youtube
 
-## Le petit mot de la fin
+
+---
+
+## 📝 Le petit mot de la fin
 
 J’espère que le projet t’a plu et que tu t’es amusé !
 Si ce type de projet t’intéresse, n’hésite pas à liker et partager un maximum sur les réseaux.
