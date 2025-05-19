@@ -14,12 +14,12 @@ Amuse-toi bien en reproduisant ce projet !
 - Servomoteur MG996R
 - Capteur ultrason HR-SC04
 - Breadboard
-- Led rouge
-- Led verte
-- Resistance 470 
+- LED rouge
+- LED verte
+- Résistance 470 Ω
 - Câbles Male/Male
 - Câbles Male/Femelle
-- Maquette découpé en contreplaqué ou en carton découpé au laser (schéma dans le dossier Schéma).
+- Maquette découpé en contreplaqué (3mm) ou en carton (schémas dans le dossier Schéma).
 - Vis diamètre 3mm longeur 16mm x2
 - Ecrou diamètre 3mm x2
 - (Optionnel) Condensateur 1000 µF (pour stabiliser l’alimentation du servo)
@@ -164,7 +164,6 @@ Fixe la barrière au servomoteur à l’aide des rislans.
 
 > Upload le code, ajoute l'alimentation 5V et test ta création !
 
-Montage final
 
 ![Montage final](Images/montage_finale.png)
 
@@ -172,7 +171,9 @@ Montage final
 
 ## 📷  Démonstration
 
-GIF
+
+![Démonstration](Images/montage.gif)
+
 
 ---
 
